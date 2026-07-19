@@ -1,5 +1,9 @@
 # Serial MCU Detector
 
+https://youtu.be/Bc4x5P3rUnE
+[![Serial MCU Detection](https://github.com/nylar357/mcu_detection/blob/main/mcu_detection.png)](https://youtu.be/Bc4x5P3rUnE)
+
+
 ## Overview
 
 This repository contains a lightweight, zero-dependency bash script designed to automatically detect and identify microcontrollers connected via USB. Instead of manually listing active ports or guessing which serial device belongs to which board, this tool polls your system and outputs a clean, formatted string containing the port name and the specific chip architecture.
