@@ -1,7 +1,7 @@
 # Serial MCU Detector
 
 https://youtu.be/Bc4x5P3rUnE
-[![Serial MCU Detection](https://github.com/nylar357/mcu_detection/blob/main/mcu_detection.png)](https://youtu.be/Bc4x5P3rUnE)
+[![Serial MCU Detection](https://github.com/nylar357/mcu_detection/blob/main/mcu_detection.png)](https://www.youtube.com/watch?v=Bc4x5P3rUnE)
 
 
 ## Overview
